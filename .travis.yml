@@ -5,7 +5,7 @@ env:
      - CONAN_USERNAME: "lasote"
      - CONAN_CHANNEL: "stable"
      - CONAN_UPLOAD: "https://api.bintray.com/conan/luisconanorg/fakeconancenter"
-     - REMOTES: "https://api.bintray.com/conan/luisconanorg/conan-testing"
+
 linux: &linux
    os: linux
    sudo: required
