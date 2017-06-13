@@ -20,6 +20,6 @@ if [[ "$(uname -s)" == 'Darwin' ]]; then
 fi
 
 pip install conan --upgrade
-pip install conan_package_tools==0.3.7.dev7
+pip install conan_package_tools==0.3.7.dev8
 
 conan user
